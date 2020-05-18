@@ -1,0 +1,15 @@
+*.iml
+**/target
+**/node_modules
+**/test.sql
+.idea
+package-lock.json
+**/dist
+.classpath
+.factorypath
+.vscode
+.settings
+.project
+lite
+doc/开发流水账.md
+
